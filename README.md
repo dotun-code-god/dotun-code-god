@@ -23,20 +23,20 @@ Also as a bonus, I don't just get things done I keep things going.
 ## 💼 My Projects
 <i>...There are quite a lot of prjoects done but just to mention a few</i>
 
-### Project 1: Gsekure Consult ([https://gsekureconsult.com/])
+### Project 1: Gsekure Consult [Live Solution](https://gsekureconsult.com/)
 
 Gsekure Consult specializes in delivering cost-effective, high-quality digital advisory services to enterprises and small businesses in Africa.
 
-### Project 2: Even Length Subset Turing Challenge([https://github.com/dotun-code-god/even_length_subsets_turing_challenge])
+### Project 2: Even Length Subset Turing Challenge [Github Link](https://github.com/dotun-code-god/even_length_subsets_turing_challenge)
 
 A coding test challenge by Turing... See README.md for more details
 
-### Project 3: Musico(https://github.com/dotun-code-god/Musico-Studio)
+### Project 3: Musico [Github Link](https://github.com/dotun-code-god/Musico-Studio)
 
 Musico Studio is a Top Recording Studios, Mixing & Mastering Engineers, Producers who as well work with musicians who understand that the best art comes from the best environment.
 
-### Project 4: TimeMaster([https://github.com/dotun-code-god/Musico-Studio](https://github.com/dotun-code-god/Time-Master])
-Live solution - [https://gsekureconsult.com/yip-staff-mgmnt/index.php]
+### Project 4: TimeMaster [Github Link](https://github.com/dotun-code-god/Time-Master)
+[Live Solution](https://gsekureconsult.com/yip-staff-mgmnt/index.php)
 
 A Staff Attendance & Payroll Management also reduces staff salary according to each attendance and you see the overview of all staff salaries at the end of the month. 
 A very effective digital attendance for your company, eases the work of the HR and ensures transparency in attendance and payroll management.
