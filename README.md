@@ -35,8 +35,7 @@ A coding test challenge by Turing... See README.md for more details
 
 Musico Studio is a Top Recording Studios, Mixing & Mastering Engineers, Producers who as well work with musicians who understand that the best art comes from the best environment.
 
-### Project 4: TimeMaster [Github Link](https://github.com/dotun-code-god/Time-Master)
-[Live Solution](https://gsekureconsult.com/yip-staff-mgmnt/index.php)
+### Project 4: TimeMaster [Github Link](https://github.com/dotun-code-god/Time-Master) [Live Solution](https://gsekureconsult.com/yip-staff-mgmnt/index.php)
 
 A Staff Attendance & Payroll Management also reduces staff salary according to each attendance and you see the overview of all staff salaries at the end of the month. 
 A very effective digital attendance for your company, eases the work of the HR and ensures transparency in attendance and payroll management.
