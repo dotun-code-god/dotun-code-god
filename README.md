@@ -77,6 +77,5 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotun-code-god&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=dotun-code-god&theme=dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dotun-code-god&show_icons=true&theme=radical)
 
 
