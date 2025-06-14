@@ -1,9 +1,5 @@
 ### Hi there 👋 I'm Joseph Oyetunde
 
-<p align="center">
-  <img src="https://your-image-url-here.jpg" alt="Jospeh Oyetunde" width="200" height="200">
-</p>
-
 ## 👩‍💻 About Me
 
 I'm a passionate full stack web developer with a flair for creativity and a love for problem-solving. My journey in the world of coding began when I wrote my first "Hello World" program and ever since, I've been hooked to the magic of turning ideas into reality through lines of code.
@@ -76,6 +72,7 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotun-code-god&layout=compact&theme=radical)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=dotun-code-god&theme=dark&hide_border=true)
 
 
